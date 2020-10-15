@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="RichEditorSample.MainPage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d">
+    <StackLayout>
+        <WebView x:Name="webview"
+                 BackgroundColor="Blue"
+                 HeightRequest="200"
+                 WidthRequest="1000"
+                 HorizontalOptions="CenterAndExpand"
+                 VerticalOptions="Start"
+                 Margin="10" Focused="Webview_Focused" />
+        <!--<Editor x:Name="HtmlLabel"
+                VerticalOptions="Start"
+                HeightRequest="150"></Editor>-->
+    </StackLayout>
+</ContentPage>

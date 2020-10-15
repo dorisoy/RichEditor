@@ -1,0 +1,10 @@
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\bin\Debug\netstandard2.0\Plugin.RichEditor.deps.json
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\bin\Debug\netstandard2.0\Plugin.RichEditor.dll
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\bin\Debug\netstandard2.0\ref\Plugin.RichEditor.dll
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\bin\Debug\netstandard2.0\Plugin.RichEditor.pdb
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\obj\Debug\netstandard2.0\Plugin.RichEditor.AssemblyInfoInputs.cache
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\obj\Debug\netstandard2.0\Plugin.RichEditor.AssemblyInfo.cs
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\obj\Debug\netstandard2.0\Plugin.RichEditor.csproj.CoreCompileInputs.cache
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\obj\Debug\netstandard2.0\Plugin.RichEditor.dll
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\obj\Debug\netstandard2.0\ref\Plugin.RichEditor.dll
+C:\Xamarin\HtmlEditor\XF.RichEditor-master\RichEditor\obj\Debug\netstandard2.0\Plugin.RichEditor.pdb

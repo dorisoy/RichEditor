@@ -1,0 +1,10 @@
+IsIncrementalBuild=false
+IsLocal=
+EnableLLVM=False
+UseConcurrentGC=False
+LinkerBehavior=SdkOnly
+AdditionalSupportedEncodings=
+HttpClientImplementation=NSUrlSessionHandler
+SupportedArchitectures=
+BuildConfiguration=iOS Release
+TemplateName={440aa056-593a-4519-8708-27081dee632f}
